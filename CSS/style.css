@@ -39,5 +39,22 @@ figure {
 .p-3 > ul > li:first-of-type {
 font-weight: bold;
 font-size:2em;
-list-style-type: none;
+list-style-type:none;
+text-align:center
+}
+.p-3 h3 {
+  text-align: center;
+}
+.active {
+  font-weight: bold;
+}
+body {
+  background:url('https://images.pexels.com/photos/2303781/pexels-photo-2303781.jpeg');
+  background-size:cover;
+}
+.bq {
+  background-color:rgba(255, 255, 255,.8);
+  border-radius: 2em;
+  padding: 1em;
+
 }
