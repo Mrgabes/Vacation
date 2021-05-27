@@ -1,0 +1,19 @@
+.jumbotron {
+  background-image:url('https://images.pexels.com/photos/386025/pexels-photo-386025.jpeg');
+  background-position:bottom center;
+  background-size:cover;
+  background-position-y:50%;
+}
+.jumbotron p {
+  background-color:rgba(255, 255, 255,.5);
+  border-radius: 2em;
+  padding:1em;
+}
+.display-4 {
+  color:black;
+}
+#tiff {
+  background-color: #fad2e1;
+  border-radius: 2em;
+  padding:.5em;
+}
