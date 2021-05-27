@@ -15,5 +15,8 @@
 #tiff {
   background-color: #fad2e1;
   border-radius: 2em;
-  padding:.5em;
+
+}
+figure {
+  padding:10px;
 }
